@@ -24,8 +24,7 @@ I'm a multi-skilled professional passionate about software development and conti
 
 ## 📫 Contact Me
 
-[![LinkedIn]([)](https://www.linkedin.com/in/zeki-güzel-9a12003b3/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ZekiGuzel-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeki-güzel-9a12003b3/)
 ---
 
 ⚡ *"Every expert was once a beginner."*
